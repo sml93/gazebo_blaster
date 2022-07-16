@@ -654,6 +654,6 @@
       </control_gimbal_channels> -->
       <!-- <gimbal_imu>camera_imu</gimbal_imu>
     </plugin> -->
-    <plugin name='model_push_plugin' filename="/home/sml/catkin_ws/devel/lib/libjetForce_plugin.so"/>
+    <!-- <plugin name='model_push_plugin' filename="/home/sml/catkin_ws/devel/lib/libjetForce_plugin.so"/> -->
   </model>
 </sdf>
