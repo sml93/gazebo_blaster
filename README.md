@@ -1,13 +1,15 @@
-**Gazebo_blaster**  
+**gazebo_blaster**  
 This repo is to simulate blaster in gazebo env.  
 Due to large mesh files for github upload, the meshes can be download from onedrive [here](https://sutdapac-my.sharepoint.com/:f:/g/personal/shawndy_lee_mymail_sutd_edu_sg/EsQyjp9jQqNPop94Q5KunKcBZ7gmdm3C5dswb5PkM2I1QQ?e=kgyn6l).  
 ***download the meshes(.stl & .dae) into a meshes folder in ~/meshes***  
   
   
-Pre-requisite:
+Pre-requisite:  
 1) make sure you have PX4-Autopilot or Firmware pre-installed onto your system.  
 2) already set up your roslaunch px4 posix.launch or px4.launch   
   
+
+
 To use:  
 1) clone this repository onto any directory on your local drive.  
 2) terminal 1: $`cd <your-clone-path>/gazebo_blaster/`  
